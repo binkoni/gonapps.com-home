@@ -35,29 +35,29 @@ disqusShortname = "gonapps"
     url = "https://github.com/gonapps/"
 
 [[params.social]]
-    name = "Youtube"
+    name = "Projects"
     weight = 2
+    url = "/projects/"
+
+[[params.social]]
+    name = "Blog"
+    weight = 3
+    url = "/blog/"
+
+[[params.social]]
+    name = "Youtube"
+    weight = 4
     url = "https://www.youtube.com/channel/UCJWwG8T5gFXLWzePLc1qu1A"
 
 [[params.social]]
     name = "LinkedIn"
-    weight = 3
+    weight = 5
     url = "https://www.linkedin.com/in/gonapps/"
 
 [[params.social]]
     name = "Twitter"
-    weight = 4
-    url = "https://twitter.com/gonapps/"
-
-[[params.social]]
-    name = "Blog"
-    weight = 5
-    url = "/blog/"
-
-[[params.social]]
-    name = "Projects"
     weight = 6
-    url = "/projects/"
+    url = "https://twitter.com/gonapps/"
 
 [[menu.main]]
     name = "Projects"
