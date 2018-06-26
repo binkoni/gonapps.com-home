@@ -20,8 +20,8 @@ disqusShortname = "gonapps"
     keywords = "homepage, developer"
     info = "I AM A PROGRAMMER!"
 
-    hideCredits = false
-    hideCopyright = false
+    hideCredits = true
+    hideCopyright = true
 
     # Custom CSS
     custom_css = []
