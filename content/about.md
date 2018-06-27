@@ -2,8 +2,15 @@
 title = "About Me"
 slug = "about"
 +++
-## skills
+<a href="https://www.youracclaim.com/badges/d8097d38-a0e3-4597-b8fa-1f0d35a8b075/public_url">
+    <img src="https://acclaim-production-app.s3.amazonaws.com/images/c3f99bbd-3c35-4eed-9c43-227b3fc0d892/Oracle-Certification-badge_OC-Professional.png" style="width:150px"/>
+</a>
+<a href="https://www.youracclaim.com/badges/eb5b3fb2-b2bf-4dbf-a51c-184bf91d3304/public_url">
+    <img src="https://acclaim-production-app.s3.amazonaws.com/images/effb73fd-bc5e-4df3-8c06-ec415ac3f8bf/Oracle-Certification-badge_OC-CertifiedExpert.png" style="width:150px"/>
+</a>
 
+## skills
+### Programming Languages
 - C 99
 - lua 5.3
 - Javasciprt ES6
@@ -12,4 +19,22 @@ slug = "about"
 - Java 8
 - Perl 5
 - Python 3
-- C++
+- C++ 11
+- Bash
+- Go (Basic)
+- Rust (Basic)
+- Tcl (Basic)
+
+### Non-Programming Languages
+- HTML 5
+- CSS 3
+- JSON
+- YAML
+- TOML
+
+### Software I Use
+- Linux (Ubuntu, Slackware, Arch, Fedora, Alpine)
+- vim
+- git
+- Docker
+- CMake
