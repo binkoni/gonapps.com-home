@@ -3,12 +3,12 @@ title = "About Me"
 slug = "about"
 +++
 
-<a href="https://www.youracclaim.com/badges/d8097d38-a0e3-4597-b8fa-1f0d35a8b075/public_url">
-<img src="https://acclaim-production-app.s3.amazonaws.com/images/c3f99bbd-3c35-4eed-9c43-227b3fc0d892/Oracle-Certification-badge_OC-Professional.png" style="width:150px">
+<a href="https://www.youracclaim.com/badges/d8097d38-a0e3-4597-b8fa-1f0d35a8b075/public_url" style="font-size:0px;margin-left:5px;margin-right:5px;">
+<img src="https://acclaim-production-app.s3.amazonaws.com/images/c3f99bbd-3c35-4eed-9c43-227b3fc0d892/Oracle-Certification-badge_OC-Professional.png" style="width:150px; border:solid black 3px">
 </a>
 </img>
-<a href="https://www.youracclaim.com/badges/eb5b3fb2-b2bf-4dbf-a51c-184bf91d3304/public_url">
-<img src="https://acclaim-production-app.s3.amazonaws.com/images/effb73fd-bc5e-4df3-8c06-ec415ac3f8bf/Oracle-Certification-badge_OC-CertifiedExpert.png" style="width:150px"/>
+<a href="https://www.youracclaim.com/badges/eb5b3fb2-b2bf-4dbf-a51c-184bf91d3304/public_url" style="font-size:0px;margin-left:5px;margin-right:5px;">
+<img src="https://acclaim-production-app.s3.amazonaws.com/images/effb73fd-bc5e-4df3-8c06-ec415ac3f8bf/Oracle-Certification-badge_OC-CertifiedExpert.png" style="width:150px;border: solid black 3px"/>
 </a>
 
 ## Identity
