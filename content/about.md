@@ -11,6 +11,11 @@ slug = "about"
 <img src="https://acclaim-production-app.s3.amazonaws.com/images/effb73fd-bc5e-4df3-8c06-ec415ac3f8bf/Oracle-Certification-badge_OC-CertifiedExpert.png" style="width:150px;border: solid black 3px"/>
 </a>
 
+<a href="https://www.youracclaim.com/badges/29bcbe59-b9bd-45de-8c7a-1447382e8312/public_url" style="font-size:0px;margin-left:5px;margin-right:5px;">
+<img src="https://acclaim-production-app.s3.amazonaws.com/images/2e35a8b0-39e8-45fc-af72-49ff91945936/Oracle-Certification-badge_OC-Professional.png" style="width:150px;border: solid black 3px"/>
+</a>
+
+
 ## Identity
 - Born in 1995
 - Male
