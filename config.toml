@@ -1,7 +1,7 @@
 baseurl = "https://gonapps.com"
 title = "gonapps.com"
 
-theme = "hugo-coder"
+theme = "hugo-apps-theme"
 
 languagecode = "en"
 
