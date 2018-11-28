@@ -1,0 +1,3 @@
+[submodule "themes/hugo-apps-theme"]
+	path = themes/hugo-apps-theme
+	url = https://github.com/gonapps/hugo-apps-theme
