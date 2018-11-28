@@ -41,52 +41,42 @@ disqusShortname = "gonapps"
     url = "https://github.com/gonapps/"
 
 [[params.social]]
-    name = "Projects"
+    name = "Apps"
     weight = 3
-    url = "/projects/"
-
-[[params.social]]
-    name = "Live Projects"
-    weight = 4
-    url = "/live-projects/"
+    url = "/apps/"
 
 [[params.social]]
     name = "Blog"
-    weight = 5
+    weight = 4
     url = "/blog/"
 
 [[params.social]]
     name = "Youtube"
-    weight = 6
+    weight = 5
     url = "https://www.youtube.com/channel/UCJWwG8T5gFXLWzePLc1qu1A"
 
 [[params.social]]
     name = "LinkedIn"
-    weight = 7
+    weight = 6
     url = "https://www.linkedin.com/in/gonapps/"
 
 [[params.social]]
     name = "Twitter"
-    weight = 8
+    weight = 7
     url = "https://twitter.com/gonapps/"
 
 [[menu.main]]
-    name = "Projects"
+    name = "Apps"
     weight = 1
-    url  = "/projects/"
-
-[[menu.main]]
-    name = "Live Projects"
-    weight = 2
-    url  = "/live-projects/"
+    url  = "/apps/"
 
 [[menu.main]]
     name = "Blog"
-    weight = 3
+    weight = 2
     url  = "/blog/"
 
 [[menu.main]]
     name = "About"
-    weight = 4
+    weight = 3
     url = "/about/"
 
