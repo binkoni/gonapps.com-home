@@ -15,7 +15,7 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "gonapps"
 
 [params]
-    logo = "/img/gonapps.png"
+    avatar = "/img/gonapps.png"
     author = "Gonapps"
     description = "An Official Site of Gon Apps"
     keywords = "homepage, developer"
