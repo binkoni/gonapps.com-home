@@ -12,6 +12,7 @@ disqusShortname = "gonapps"
 googleAnalytics = "UA-66175317-1"
 
 [params]
+    googleAutoAds = "ca-pub-8314195422970862"
     avatar = "/img/gonapps.png"
     author = "Gonapps"
     description = "An Official Site of Gon Apps"
