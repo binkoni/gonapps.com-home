@@ -4,10 +4,6 @@ title = "gonapps.com"
 theme = "hugo-apps-theme"
 
 languagecode = "en"
-
-paginate = 20
-canonifyurls = true
-
 disqusShortname = "gonapps"
 googleAnalytics = "UA-66175317-1"
 

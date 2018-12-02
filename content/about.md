@@ -1,7 +1,7 @@
 +++
 title = "About Me"
 slug = "about"
-enable_disqus = false
+enableDisqus = false
 +++
 
 <a href="https://www.youracclaim.com/badges/d8097d38-a0e3-4597-b8fa-1f0d35a8b075/public_url" style="font-size:0px;margin-left:5px;margin-right:5px;">
