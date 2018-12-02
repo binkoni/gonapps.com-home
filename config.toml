@@ -8,11 +8,8 @@ languagecode = "en"
 paginate = 20
 canonifyurls = true
 
-pygmentsstyle = "b2"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
-
 disqusShortname = "gonapps"
+googleAnalytics = "UA-66175317-1"
 
 [params]
     avatar = "/img/gonapps.png"
