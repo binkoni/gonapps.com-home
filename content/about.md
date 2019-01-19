@@ -37,7 +37,7 @@ enableDisqus = false
 - Python 3
 - C++ 11
 - Bash
-- Go (Basic)
+- Go
 - Rust (Basic)
 - Tcl (Basic)
 
