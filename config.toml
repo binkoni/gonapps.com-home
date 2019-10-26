@@ -10,10 +10,10 @@ googleAnalytics = "UA-66175317-1"
 [params]
     googleAutoAds = "ca-pub-8314195422970862"
     avatar = "/img/gonapps.png"
-    author = "Gonapps"
+    author = "GonApps"
     description = "An Official Site of Gon Apps"
     keywords = "homepage, developer"
-    info = "I AM A PROGRAMMER!"
+    info = "Apps for everyone"
 
     hideCredits = true
     hideCopyright = true
@@ -40,6 +40,11 @@ googleAnalytics = "UA-66175317-1"
     url = "/apps/"
 
 [[params.social]]
+    name = "Projects"
+    weight = 3
+    url = "/projects/"
+
+[[params.social]]
     name = "Blog"
     weight = 4
     url = "/blog/"
@@ -63,6 +68,11 @@ googleAnalytics = "UA-66175317-1"
     name = "Apps"
     weight = 1
     url  = "/apps/"
+
+[[menu.main]]
+    name = "Projects"
+    weight = 1
+    url  = "/projects/"
 
 [[menu.main]]
     name = "Blog"
