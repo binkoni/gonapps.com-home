@@ -11,9 +11,9 @@ googleAnalytics = "UA-66175317-1"
     googleAutoAds = "ca-pub-8314195422970862"
     avatar = "/img/gonapps.png"
     author = "GonAPPS"
-    description = "An Official Site of GonAPPS"
+    description = "The Official Site of GonAPPS"
     keywords = "homepage, developer"
-    info = "Gone Architectural Perfection and Progressive Software"
+    info = "The Official Site of GonAPPS"
 
     hideCredits = true
     hideCopyright = true
