@@ -1,3 +1,11 @@
 [submodule "themes/hugo-apps-theme"]
 	path = themes/hugo-apps-theme
-	url = https://github.com/gonapps/hugo-apps-theme
+	url = https://github.com/gonapps-org/hugo-apps-theme
+
+[submodule "content/apps/.apps/calc"]
+	path = content/apps/.apps/calc
+	url = https://github.com/gonapps-org/calc
+
+[submodule "content/apps/.apps/jamo"]
+	path = content/apps/.apps/jamo
+	url = https://github.com/gonapps/jamo
