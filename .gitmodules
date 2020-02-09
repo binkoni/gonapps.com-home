@@ -7,5 +7,5 @@
 	url = https://github.com/gonapps-org/calc
 
 [submodule "content/apps/.apps/jamo"]
-	path = content/apps/.apps/jamo
+	path = content/apps/jamo
 	url = https://github.com/gonapps/jamo
