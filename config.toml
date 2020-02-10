@@ -10,10 +10,10 @@ googleAnalytics = "UA-66175317-1"
 [params]
     googleAutoAds = "ca-pub-8314195422970862"
     avatar = "/img/gonapps.png"
-    author = "GonAPPS"
-    description = "The Official Site of GonAPPS"
+    author = "GonApps"
+    description = "The Official Site of GonApps®"
     keywords = "homepage, developer"
-    info = "The Official Site of GonAPPS"
+    info = "The Official Site of GonApps®"
 
     hideCredits = true
     hideCopyright = true
