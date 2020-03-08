@@ -3,11 +3,11 @@
 	url = https://github.com/gonapps-org/hugo-apps-theme
 
 [submodule "content/apps/jamo"]
-	path = content/apps/jamo
+	path = apps/jamo
 	url = https://github.com/gonapps/jamo
 [submodule "content/apps/stellar-fighter"]
-	path = content/apps/stellar-fighter
+	path = apps/stellar-fighter
 	url = https://github.com/stellar-fighter/stellar-fighter
 [submodule "content/apps/calc"]
-	path = content/apps/calc
+	path = apps/calc
 	url = https://github.com/gonnux/calc
