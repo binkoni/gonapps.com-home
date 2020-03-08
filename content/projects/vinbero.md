@@ -1,9 +1,10 @@
 <!--
-+++
-title = "Vinbero"
-description = "The Modular Server"
-img = "https://raw.githubusercontent.com/vinbero/vinbero/master/img/vinbero.png"
-+++
+---
+title: "Vinbero"
+description: "The Modular Server"
+img: "https://raw.githubusercontent.com/vinbero/vinbero/master/img/vinbero.png"
+enableDisqus: true
+---
 -->
 # Vinbero [![Build Status](https://travis-ci.org/vinbero/vinbero.svg?branch=master)](https://travis-ci.org/vinbero/vinbero)
 

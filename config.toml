@@ -1,86 +1,88 @@
-baseurl = "https://gonapps.com"
-title = "gonapps.com"
+baseurl = "https://gonnux.com"
+title = "gonnux.com"
 
 theme = "hugo-apps-theme"
 
 languagecode = "en"
-disqusShortname = "gonapps"
+disqusShortname = "gonnux"
 googleAnalytics = "UA-66175317-1"
 
 [params]
-    googleAutoAds = "ca-pub-8314195422970862"
-    avatar = "/img/gonapps.png"
-    author = "GonApps"
-    description = "The Official Site of GonApps®"
-    keywords = "homepage, developer"
-    info = "The Official Site of GonApps®"
+  googleAutoAds = "ca-pub-8314195422970862"
+  avatar = "/img/gonapps.png"
+  author = "Gonnux"
+  description = "The Official Site of Gonnux"
+  keywords = "homepage, developer"
+  info = "The Official Site of Binkoni"
 
-    hideCredits = true
-    hideCopyright = true
+  hideCredits = true
+  hideCopyright = true
 
-    # Custom CSS
-    custom_css = []
+  # Custom CSS
+  custom_css = []
 
-    # RTL support
-    rtl = false
-
-[[params.social]]
-    name = "About"
-    weight = 1
-    url = "/about/"
+  # RTL support
+  rtl = false
 
 [[params.social]]
-    name = "Github"
-    weight = 2
-    url = "https://github.com/gonapps/"
+  name = "About"
+  weight = 1
+  url = "/about/"
 
 [[params.social]]
-    name = "Apps"
-    weight = 3
-    url = "/apps/"
+  name = "Github"
+  weight = 2
+  url = "https://github.com/binkoni/"
 
 [[params.social]]
-    name = "Projects"
-    weight = 3
-    url = "/projects/"
+  name = "Apps"
+  weight = 3
+  url = "/apps/"
 
 [[params.social]]
-    name = "Blog"
-    weight = 4
-    url = "/blog/"
+  name = "Projects"
+  weight = 3
+  url = "/projects/"
 
 [[params.social]]
-    name = "Youtube"
-    weight = 5
-    url = "https://www.youtube.com/channel/UCJWwG8T5gFXLWzePLc1qu1A"
+  name = "Blog"
+  weight = 4
+  url = "/blog/"
 
 [[params.social]]
-    name = "LinkedIn"
-    weight = 6
-    url = "https://www.linkedin.com/in/gonapps/"
+  name = "Youtube"
+  weight = 5
+  url = "https://www.youtube.com/channel/UC0ryyWXkCMuXp8jmhjLEjpw"
 
 [[params.social]]
-    name = "Twitter"
-    weight = 7
-    url = "https://twitter.com/gonapps/"
+  name = "LinkedIn"
+  weight = 6
+  url = "https://www.linkedin.com/in/binkoni/"
+
+[[params.social]]
+  name = "Twitter"
+  weight = 7
+  url = "https://twitter.com/gonnux/"
 
 [[menu.main]]
-    name = "Apps"
-    weight = 1
-    url  = "/apps/"
+  name = "Apps"
+  weight = 1
+  url  = "/apps/"
 
 [[menu.main]]
-    name = "Projects"
-    weight = 1
-    url  = "/projects/"
+  name = "Projects"
+  weight = 1
+  url  = "/projects/"
 
 [[menu.main]]
-    name = "Blog"
-    weight = 2
-    url  = "/blog/"
+  name = "Blog"
+  weight = 2
+  url  = "/blog/"
 
 [[menu.main]]
-    name = "About"
-    weight = 3
-    url = "/about/"
+  name = "About"
+  weight = 3
+  url = "/about/"
 
+[taxonomies]
+  tag = "tags"
